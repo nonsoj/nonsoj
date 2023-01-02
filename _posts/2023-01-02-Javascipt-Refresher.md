@@ -11,7 +11,7 @@ categories: Post
 
 ---
 
-- data types include :
+- `data types` include :
 - Numbers; decimal numbers, integers, negative numbers, non-negative numbers, (can you use complex numbers in javascript code?)
 - strings - single `' '` or double quotes `" "`
 - using quotes tell javascript to execute the input as a string
