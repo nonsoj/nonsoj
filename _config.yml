@@ -21,7 +21,7 @@
 title: Nonso John
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Write ups about math, computer science and everything else I find interesting.
+  Nonso John's website.
 baseurl: "/nonsoj" # the subpath of your site, e.g. /blog
 url: "https://nonsoj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nonsojohn_
