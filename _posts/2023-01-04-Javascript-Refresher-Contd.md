@@ -66,4 +66,7 @@ console.log(myBreed);
 ```
 
 - use quotes when appending new object properties and also when accessing object properties with bracket notation
-- use the `delete` keyword to delete object properties for example `delete myObject.property name / delete myObject['property-name']`
+- use the `delete` keyword to delete object properties for example:
+- ```js
+  delete myObject.property name / delete myObject['property-name'];
+  ```
