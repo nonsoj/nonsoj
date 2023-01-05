@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Javascript Refresher"
+title: "Javascript refresher"
 date: 2023-01-02
 categories: Post
 ---
 
-##### Rough Unorganized Notes
+##### Personal (rough) unorganized notes
 
 ---
 
