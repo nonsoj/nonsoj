@@ -1,7 +1,7 @@
 ### Hi I'm Nonso John👋
 
-- 🔭 I’m currently 
-- 🌱 I’m learning python and javaScript at the moment
-- 👯 I’m looking to collaborate on interesting backend projects using python and js
-- 📫 You can follow me on twitter @nonsojohn_
-- 😄 Pronouns: he/him
+🔭 I’m currently exploring systems, AI, and security in programming.  
+🌱 I’m learning Python and JavaScript at the moment.  
+👯 I’m looking to collaborate on interesting backend projects using Python and JavaScript.  
+📫 You can follow me on Twitter @nonsojohn_.  
+😄 Pronouns: he/him.  
